@@ -1,0 +1,61 @@
+@import url(https://fonts.googleapis.com/css?family=Coming+Soon);
+body{
+background-image: url("https://m1.behance.net/rendition/modules/64969195/disp/2609c06e0f9d945573e70dc0d591b846.jpg");
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+}
+
+.title {
+	font-family: "Coming Soon";
+  text-align: center;
+}
+.cartman {
+  position: absolute;
+  height: 300px;
+  width: 25%;
+  left: 10%;
+  top: 150px;
+}
+.quotebox{
+  position: relative;
+  width: 500px;
+  height: 325px;
+  left:50%;
+}
+.quotebox-image{
+  position: absolute;
+  width: 500px;
+  height: 400px;
+}
+.quotebox-text{
+  z-index: 100;
+  width: 450px;
+  height: 300px;
+  position: absolute;
+  color: black;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: "Coming Soon";
+  left: 20px;
+  top: 80px;
+}
+.inline-block{
+display: inline-block;
+}
+.quoteebox{
+	position: relative;
+	top: 150px;
+	left: 17%;
+	margin: auto;
+	width: 400px;
+	height: 300px;
+	color: black;
+	font-size: 24px;
+	font-weight: bold;
+	font-family: "Coming Soon";
+	text-align: left;
+}
+.quoteebox-text{
+
+}
